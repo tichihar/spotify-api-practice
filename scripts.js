@@ -1,5 +1,5 @@
 const playlistId = '1XRwjNcotnKaRShnL0E9Is';
-const token = 'BQAyIuke4xyMMYryqn8De1ueWgGD2zsLtaDZQWh-_yTkyp1330GBMHg2yNzQUSRn4ZwM1C8Ti6eUHwjQo8YgmSuybuo7JxqlMsgjRQQbxJubHNPSkxi2opRmYlkLc29P17w1pJd9JCU';
+const token =
 
 fetch(`https://api.spotify.com/v1/playlists/${playlistId}`, {
   headers: {
